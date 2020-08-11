@@ -1,0 +1,1 @@
+console.log(131313.split('3').join('3'));
